@@ -10,4 +10,30 @@ I have recently been hired as a Data Analyst by a global IT and business consult
 
 ## Dataset:
 
-One key source for this project is the latest **Developer Survey**, a comprehensive dataset offering insights into the global developer community. The dataset is available at [link](https://stackoverflow.blog/2024/08/06/2024-developer-survey/).
+One key source for this project is the latest **Stack Overflow Developer Survey**, a comprehensive dataset offering insights into the global developer community. It consists of responses from developers with different professional backgrounds, educational levels and geographic locations. The dataset is available at [link](https://stackoverflow.blog/2024/08/06/2024-developer-survey/).
+
+## Steps:
+
+### 1. Collecting Data Using APIs.
+
+I began by analyzing HTTP requests and utilizing the GitHub REST API to retrieve and paginate job postings for various technologies. Next, I collected job data from the GitHub Jobs API.
+
+### 2. Collecting Data Using Webscraping.
+
+In this section, I employed web scraping techniques to collect data by downloading webpages, extracting links and images, and parsing HTML tables, subsequently saving the data into a CSV file.
+
+### 3. Exploring Data.
+
+After collecting sufficient data, I analyzed it to summarize key dataset characteristics and identify common data types used in data analysis.
+
+### 4. Data Wrangling.
+
+In this module, I applied essential data-wrangling techniques to clean and prepare datasets for analysis, including:
+
+- Identifying and handling missing values;
+
+- Removing duplicate entries;
+
+- Imputing missing data;
+
+- Normalizing data.  
