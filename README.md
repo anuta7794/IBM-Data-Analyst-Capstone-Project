@@ -10,4 +10,4 @@ I have recently been hired as a Data Analyst by a global IT and business consult
 
 ## Dataset:
 
-One key source for this project is the latest **Developer Survey**, a comprehensive dataset offering insights into the global developer community. The dataset is available at [link] (https://stackoverflow.blog/2024/08/06/2024-developer-survey/).
+One key source for this project is the latest **Developer Survey**, a comprehensive dataset offering insights into the global developer community. The dataset is available at [link](https://stackoverflow.blog/2024/08/06/2024-developer-survey/).
