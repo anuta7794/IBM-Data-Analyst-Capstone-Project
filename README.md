@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This capstone project, part of the **IBM Data Analyst Professional Certificate** course, demonstrates proficiency in data analysis tools and techniques, including **_Excel_**, **_Python_**, **_SQL_**, **_Cognos Analytics_**, and **_Looker Studio_**. The project involves tasks such as data collection, wrangling, exploratory analysis, statistical analysis, data visualization, and creating interactive dashboards. 
+This capstone project, part of the **IBM Data Analyst Professional Certificate** course, demonstrates proficiency in data analysis tools and techniques, including **_Excel_**, **_Python_**, **_SQL_**, and **_Looker Studio_**. The project involves tasks such as data collection, wrangling, exploratory analysis, statistical analysis, data visualization, and creating interactive dashboards. 
 
 ## Scenario:
 
@@ -36,4 +36,30 @@ In this module, I applied essential data-wrangling techniques to clean and prepa
 
 - Imputing missing data;
 
-- Normalizing data.  
+- Normalizing data.
+
+### 5. Exploratory Data Analysis.
+
+In this module, I applied essential exploratory data analysis (EDA) techniques to extract meaningful insights from the dataset:
+  
+- Data distribution analysis;
+
+- Outlier detection and removal;
+
+- Correlation exploration;
+
+- DataFrame creation.
+
+### 6. Data Vizualization.
+
+Next, I applied essential data visualization techniques to extract meaningful insights from the Stack Overflow survey dataset:
+
+- Visualizing data distribution: utilized **_histograms_** and **_box plots_** to understand the spread and central tendency of various features;
+
+- Exploring feature relationships: employed **_scatter_** and **_bubble plots_** to examine potential correlations between different variables;
+
+- Analyzing data composition: created **_pie charts_** and **_stacked charts_** to assess the proportional makeup of categorical data;
+
+- Comparing categorical data: used **_line_** and **_bar charts_** to compare metrics across different categories effectively.
+
+### 7. Building a Dashboard.
