@@ -63,3 +63,17 @@ Next, I applied essential data visualization techniques to extract meaningful in
 - Comparing categorical data: used **_line_** and **_bar charts_** to compare metrics across different categories effectively.
 
 ### 7. Building a Dashboard.
+
+After identifying key trends and insights, I synthesized my findings by creating a comprehensive dashboard using Google Looker Studio. The dashboard is structured into three main sections:
+
+- **_Current Technology Usage:_** This section visualizes the prevalent technologies among respondents, highlighting popular programming languages, tools, and platforms.
+
+  ![1 Current Technology Use](https://github.com/user-attachments/assets/3d43a817-ba92-4600-b99c-6046eec11268)
+
+- **_Future Technology Trends:_** Here, I present data on emerging technologies and respondents' intentions to adopt new tools, offering insights into future industry directions.
+
+  ![2 Future Technology Trends](https://github.com/user-attachments/assets/9e0005f0-c3a7-4445-b7f9-a60986661164)
+
+- **_Demographics:_** This part provides an overview of respondent profiles, including factors such as geographic distribution, experience levels, and educational backgrounds.
+
+![3 Demographics](https://github.com/user-attachments/assets/6d82241f-ea12-4e8e-a239-967836e30951)
