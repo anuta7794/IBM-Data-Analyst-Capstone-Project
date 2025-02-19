@@ -72,8 +72,9 @@ After identifying key trends and insights, I synthesized my findings by creating
 
 - **_Future Technology Trends:_** Here, I present data on emerging technologies and respondents' intentions to adopt new tools, offering insights into future industry directions.
 
-  ![2 Future Technology Trends](https://github.com/user-attachments/assets/9e0005f0-c3a7-4445-b7f9-a60986661164)
+ ![2 Future Technology Trends](https://github.com/user-attachments/assets/aa1c505f-ed2c-4e11-8604-a7daa62038ec)
 
 - **_Demographics:_** This part provides an overview of respondent profiles, including factors such as geographic distribution, experience levels, and educational backgrounds.
 
-![3 Demographics](https://github.com/user-attachments/assets/6d82241f-ea12-4e8e-a239-967836e30951)
+![3 Demographics](https://github.com/user-attachments/assets/8507e6c8-139e-49b8-8559-bd9a8c024964)
+
