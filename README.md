@@ -80,7 +80,7 @@ After identifying key trends and insights, I synthesized my findings by creating
 
 ### 8. Final Presentation.
 
-After deriving key insights from the Stack Overflow Developer Survey data, I synthesized the findings into a comprehensive PowerPoint presentation. This presentation highlights the most significant trends and patterns identified during the analysis, providing a clear and concise overview of the data's implications.
+After deriving key insights from the Stack Overflow Developer Survey data, I synthesized the findings into a comprehensive **_PowerPoint presentation_**. This presentation highlights the most significant trends and patterns identified during the analysis, providing a clear and concise overview of the data's implications.
 
 ## Key Findings and Insights:
 
