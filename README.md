@@ -84,41 +84,41 @@ After deriving key insights from the Stack Overflow Developer Survey data, I syn
 
 ## Key Findings and Insights:
 
-1. Most Desired Programming Languages & Technologies:
+1. **_Most Desired Programming Languages & Technologies:_**
 
 •	The Top 10 languages developers want to work with next year include Python, JavaScript, and TypeScript.
 
 •	Emerging trends show increasing interest in Rust, Go, and Kotlin.
 
-2. Most Desired Databases & Platforms:
+2. **_Most Desired Databases & Platforms:_**
 
 •	PostgreSQL and MySQL remain the most desired databases, while MongoDB is gaining popularity.
 
 •	The Top 10 desired platforms include Linux, AWS, and Docker, indicating a preference for cloud-based and containerized environments.
 
-3. Web Framework Preferences:
+3. **_Web Framework Preferences:_**
 
 •	React.js and Node.js are the most sought-after frameworks.
 
 •	Backend frameworks like Django and Spring Boot are also in high demand.
 
-4. Developer Demographics & Education:
+4. **_Developer Demographics & Education:_**
 
 •	A majority of developers fall into the 25-34 age range, followed by younger professionals under 24.
 
 •	Bachelor’s degrees are the most common education level, but a significant portion of respondents are self-taught or have taken online courses.
 
-5. Gender Distribution in Development:
+5. **_Gender Distribution in Development:_**
 
 •	The survey reflects a male-dominated industry, though representation of women and non-binary developers is increasing.
 
-6. Geographic Distribution of Respondents:
+6. **_Geographic Distribution of Respondents:_**
 
 •	The highest number of respondents come from the United States, India, and Germany.
 
 •	Developing tech hubs in Latin America and Southeast Asia are showing growth.
 
-7. Age vs. Education Level Trends:
+7. **_Age vs. Education Level Trends:_**
 
 •	Younger developers (18-24) often rely on online learning, bootcamps, and self-teaching.
 
