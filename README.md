@@ -1,5 +1,4 @@
-# IBM Data Analyst Capstone Project:
-# Eploring the developer landscape
+# IBM Data Analyst Capstone Project: Exploring the Developer Landscape
 
 ## Overview:
 
