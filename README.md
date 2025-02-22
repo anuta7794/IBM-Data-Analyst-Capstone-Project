@@ -8,6 +8,25 @@ This capstone project, part of the **IBM Data Analyst Professional Certificate**
 
 I have recently been hired as a Data Analyst by a global IT and business consulting firm renowned for its expertise in IT solutions and highly experienced consultants. To stay competitive in the rapidly evolving technology landscape, my organization regularly analyzes data to identify emerging and future skill requirements. As a Data Analyst, you wll contribute to this initiative by collecting data from diverse sources and identifying trends for this year's report on in-demand skills. 
 
+## Tools and Technologies:
+
+In this project, I utilized the following tools:
+
+- **_Microsoft Excel:_** For initial data exploration and manipulation.
+
+- **_Jupyter Notebook:_** As an interactive environment for writing and running Python code.
+
+ - **_Python Libraries:_**
+     - **_Pandas:_** Data manipulation and analysis.
+     - **_NumPy:_** Numerical computing.
+     - **_Matplotlib_** and **_Seaborn:_** Data visualization.
+
+- **_SQLite:_** To manage and query relational databases.
+
+- **_Google Looker Studio:_** For creating interactive dashboards and reports.
+
+- **_PowerPoint:_** To compile and present findings effectively.
+
 ## Dataset:
 
 One key source for this project is the latest **Stack Overflow Developer Survey**, a comprehensive dataset offering insights into the global developer community. It consists of responses from developers with different professional backgrounds, educational levels and geographic locations. The dataset is available at [link](https://stackoverflow.blog/2024/08/06/2024-developer-survey/).
